@@ -35,12 +35,7 @@ namespace AlexanderRolOnlineCV.Controllers
         public IActionResult Privacy()
         {
             return View();
-        }
-
-        public IActionResult Assignment()
-        {
-            return View();
-        }
+        } 
 
         public IActionResult CompletedCourses()
         {
